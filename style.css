@@ -1,4 +1,4 @@
-@charset "UTF-8";;
+@charset "UTF-8";
 *{
     margin: 0px;
     padding: 0px;
@@ -64,6 +64,7 @@ section > p{
 .imagem > p{
     background-color: rgba(0,0,0,0.257);
     width:500px;
+    height:300px;
 
 }
 
